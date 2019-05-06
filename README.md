@@ -1,6 +1,6 @@
 # Brainfuck to C Converter
 
-This is a converter which connverts Brainfuck into C.
+This is a converter which converts Brainfuck into C.
 
 ## Requirement
 
