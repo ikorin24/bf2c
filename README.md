@@ -9,7 +9,7 @@ This is a converter which converts Brainfuck into C.
 ## How to Use
 
 ```sh
-./bf2c.py [your_brainfuck_source] > out.c
+./bf2c.py [brainfuck_source_file] > out.c
 ```
 
 ## Author
